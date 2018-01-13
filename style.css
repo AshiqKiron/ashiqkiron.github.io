@@ -1,1 +1,100 @@
 
+.about5 {
+  background-color: #fff;
+  padding: 5% 10%; }
+  /* line 325, sass/frontpage/_intro.scss */
+  .about5 ul {
+    list-style: none;
+    text-align: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+  /* line 332, sass/frontpage/_intro.scss */
+  .about5 li {
+    padding: 0 20px;
+    color: #111; }
+  /* line 337, sass/frontpage/_intro.scss */
+  .about5 .fa {
+    font-size: 40px;
+    color: #1d1d1f;
+    font-weight: bold;
+    padding: 20px 0; }
+  /* line 344, sass/frontpage/_intro.scss */
+  .about5 ul p {
+    font-size: 15px;
+    font-weight: bold; }
+  /* line 349, sass/frontpage/_intro.scss */
+  .about5 .cent div:nth-child(1) {
+    float: left;
+    width: 35%; }
+  /* line 354, sass/frontpage/_intro.scss */
+  .about5 .cent div:nth-child(2) {
+    float: left;
+    width: 27%; }
+  /* line 359, sass/frontpage/_intro.scss */
+  .about5 .cent div:nth-child(3) {
+    float: left;
+    width: 25%; }
+  /* line 364, sass/frontpage/_intro.scss */
+  .about5 .cent div p {
+    line-height: 1.85em;
+    color: #9B9BA3;
+    font-size: 13px;
+    letter-spacing: .05em; }
+  /* line 371, sass/frontpage/_intro.scss */
+  .about5 h2 {
+    text-align: center;
+    font-size: 40px;
+    margin: 1px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-style: oblique;
+    color: #444;
+    font-weight: 500; }
+  /* line 382, sass/frontpage/_intro.scss */
+  .about5 .head {
+    text-align: center; }
+  /* line 386, sass/frontpage/_intro.scss */
+  .about5 span {
+    background: #111;
+    height: 2px;
+    width: 60px;
+    position: absolute;
+    margin-left: -25px; }
+  /* line 394, sass/frontpage/_intro.scss */
+  .about5 .icon {
+    padding: 7% 0 2%; }
+  /* line 398, sass/frontpage/_intro.scss */
+  .about5 .cent .one h3 {
+    width: 75%;
+    float: right;
+    padding-right: 5%;
+    text-align: right;
+    font-size: 19px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    line-height: 1.5em;
+    margin-top: 14px; }
+
+@media screen and (max-width: 700px) {
+  /* line 414, sass/frontpage/_intro.scss */
+  .about5 ul {
+    display: block;
+    margin: 0;
+    padding: 0; }
+  /* line 420, sass/frontpage/_intro.scss */
+  .about5 li {
+    padding: 30px 20px; } }
+@media screen and (max-width: 850px) {
+  /* line 431, sass/frontpage/_intro.scss */
+  .about5 .cent div {
+    float: none !important;
+    width: 100% !important; }
+  /* line 436, sass/frontpage/_intro.scss */
+  .about5 .cent .one h3 {
+    width: 100%;
+    float: none;
+    text-align: center; } }
