@@ -82,7 +82,7 @@ body {
     font-weight: bold;
     letter-spacing: 1px;
     line-height: 1.5em;
-    margin-top: 14px; }
+    margin-top: 0px; }
 
 @media screen and (max-width: 700px) {
   /* line 414, sass/frontpage/_intro.scss */
