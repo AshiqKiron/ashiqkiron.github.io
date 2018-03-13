@@ -875,7 +875,7 @@ body {
 }
 
 .timeline .fa {
-  font-size: 10px;
+  font-size: 10px;color:#03A9F4;
 }
 
 .timeline:before {
@@ -940,7 +940,7 @@ body {
 
 .timeline-title {
   margin-top: 0;
-  color: #555;
+  color: #333;
   line-height: 1.5;
   font-size: 16px;
 }
@@ -1014,7 +1014,7 @@ body {
   padding: 2% 0;
 }
 .exp_two .ttle {
-  padding-left: 6%;
+  padding-left: 6%;color:#333;
 }
 
 .exp_two .com_logo {
