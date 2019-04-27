@@ -105,6 +105,84 @@ body {
     text-align: center; } }
 
 
+/*portfolio two*/
+/* line 165, sass/frontpage/_portfolio.scss */
+.services {
+  padding: 5% 10%;
+  background-color: #fff; }
+  /* line 169, sass/frontpage/_portfolio.scss */
+  .services h2 {
+    font-size: 60px;
+    margin-top: 1%;
+    padding-left: 10%;
+    font-weight: 100;
+    line-height: 1;
+    color: #333; }
+  /* line 178, sass/frontpage/_portfolio.scss */
+  .services h3 {
+    width: 45%;
+    float: left;
+    font-size: 1.3rem;
+    line-height: 1.25;
+    margin-top: 12px;
+    font-weight: 500;
+    color: #333; }
+  /* line 188, sass/frontpage/_portfolio.scss */
+  .services p {
+    font-size: 13px;
+    letter-spacing: 1.5px;
+    margin-top: 8px;
+    line-height: 1.7em;
+    word-spacing: 2px;
+    color: #444; }
+  /* line 197, sass/frontpage/_portfolio.scss */
+  .services .part1 {
+    float: left;
+    width: 50%; }
+  /* line 202, sass/frontpage/_portfolio.scss */
+  .services .part2 {
+    float: left;
+    width: 50%;
+    margin-top: 1%; }
+  /* line 208, sass/frontpage/_portfolio.scss */
+  .services .div h3 {
+    float: left;
+    width: 30%; }
+  /* line 213, sass/frontpage/_portfolio.scss */
+  .services .div p {
+    float: left;
+    width: 50%; }
+  /* line 218, sass/frontpage/_portfolio.scss */
+  .services .div {
+    padding: 7% 0; }
+  /* line 222, sass/frontpage/_portfolio.scss */
+  .services .div:first-child {
+    padding-top: 0; }
+
+@media screen and (min-width: 320px) and (max-width: 1200px) {
+  /* line 233, sass/frontpage/_portfolio.scss */
+  .services .part1 {
+    float: none;
+    width: 100%;
+    text-align: center; }
+  /* line 239, sass/frontpage/_portfolio.scss */
+  .services .part1 h2 {
+    padding: 0; }
+  /* line 243, sass/frontpage/_portfolio.scss */
+  .services .part2 {
+    float: none;
+    width: 100%;
+    margin: 0;
+    text-align: center; }
+  /* line 250, sass/frontpage/_portfolio.scss */
+  .services .div h3 {
+    float: none;
+    width: 100%; }
+  /* line 255, sass/frontpage/_portfolio.scss */
+  .services .div p {
+    float: none;
+    width: 100%; } }
+
 
 /*service three*/
 /* line 379, sass/frontpage/_service.scss */
