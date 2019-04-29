@@ -224,6 +224,7 @@ body {
         background-size: 0% 2px;
         transition: background-size .3s;
         padding-bottom: 5px;
+        font-size: 14px;
     }
 
     .allserv .link:hover {
