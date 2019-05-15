@@ -46,7 +46,7 @@ body {
   /* line 364, sass/frontpage/_intro.scss */
   .about5 .cent div p {
     line-height: 1.85em;
-    color: #9B9BA3;
+    color: #666;
     font-size: 13px;
     letter-spacing: .05em; }
   /* line 371, sass/frontpage/_intro.scss */
@@ -117,6 +117,7 @@ body {
     padding-left: 10%;
     font-weight: 100;
     line-height: 1;
+    font-weight: bold;
     color: #333; }
   /* line 178, sass/frontpage/_portfolio.scss */
   .services h3 {
